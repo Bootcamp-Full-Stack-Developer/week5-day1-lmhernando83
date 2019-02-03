@@ -31,7 +31,7 @@ Además, ya en el fichero Javascript puedes ver que tenemos un Objeto que
 funcionara como personaje de nuestro Scape Room. Pero dicho personaje no 
 tiene ninguna propiedad! Necesitamos que añadas las siguientes propiedades al personaje:
 
-* Posicion: Sera un objeto que contiene dos claves x e y.
+* Posicion: Sera un objeto que contiene dos claves x=4 e y=4.
 
 ### Iteración 2
 
